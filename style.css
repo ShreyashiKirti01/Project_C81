@@ -1,0 +1,12 @@
+html{
+background-color:lightsalmon;
+text-align:center;
+font-size:28px;
+ }
+
+#myCanvas{
+border-width:30px;
+border-style:groove;
+border-color:black;
+background-color: burlywood;
+}
